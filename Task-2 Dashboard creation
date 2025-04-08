@@ -1,0 +1,35 @@
+📊 Sales Dashboard - Data Analyst Internship Task 2
+🔍 Objective:
+Create a Power BI Dashboard to visualize and analyze key business insights from the Classic Model Sales Dataset, as part of a data analyst internship task focused on data storytelling and visual analytics.
+
+📌 Key Metrics & KPIs
+Total Sales
+
+Total Quantity Ordered
+
+Top Performing Products
+
+Sales by Country
+
+Sales by Product Line
+
+Monthly Sales Trends
+
+Credit Limit vs Sales by Country
+
+Deal Size Distribution
+
+
+📈 Dashboard Features
+Visual	Description
+KPI Cards	High-level overview: Total Sales, Quantity, Profit
+Bar Chart	Top Products by Quantity Ordered
+Line Chart	Monthly Sales Trend
+Map Chart	Sales by Country
+Donut/Pie Chart	Distribution by Deal Size
+Combo Chart	Credit Limit vs Sales Comparison
+Filters/Slicers	City, Year, Quarter
+
+story insight 
+The USA drives the majority of sales and credit limits. While 'Motorcycles' lead in product sales, deeper trends show opportunities for market 
+expansion in France and New Zealand. December shows seasonal sales peaks, and 'Small' deals dominate transaction volume.
